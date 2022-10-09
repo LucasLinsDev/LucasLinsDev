@@ -1,7 +1,6 @@
-### Hi there 👋
 
-<!--
-**LucasLinsDev/LucasLinsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**LucasLinsDev/LucasLinsDev** 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Lins-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Lins-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
