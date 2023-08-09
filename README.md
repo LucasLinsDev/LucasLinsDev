@@ -5,7 +5,8 @@
 **LucasLinsDev/LucasLinsDev** 
 
 <div style="display: inline_block"><br>
-  <h1>TODOS PROJETOS PUBLICOS SÃO UM TESTE DE UM PROGRAMA QUE ESTOU DESENVOLVENDO COM A API DO   GITHUB</h1>
+  <h1>
+"Todos os projetos públicos são um teste de um programa que estou desenvolvendo com a API do GitHub."</h1>
   <br><br>
 </div>
 
