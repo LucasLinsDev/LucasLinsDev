@@ -4,11 +4,7 @@
 
 **LucasLinsDev/LucasLinsDev** 
 
-<div style="display: inline_block"><br>
-  <h1>
-"Todos os projetos públicos são um teste de um programa que estou desenvolvendo com a API do GitHub."</h1>
-  <br><br>
-</div>
+
 
 <div style="display: inline_block"><br>
 
